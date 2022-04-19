@@ -1,4 +1,4 @@
-# ComputerScienceArticles
+# Computer Science Articles
 
 ## Articles
 
