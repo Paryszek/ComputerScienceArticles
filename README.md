@@ -1,5 +1,7 @@
 # Computer Science Articles
 
+Repository where I store my articles regarding Computer Science topics. This articles can be found on my website in blog section [Michal Parysz Page] (http://www.michalparysz.com/blog)
+
 ## Articles
 
 * [Hello World](helloworld.md)
