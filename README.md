@@ -5,10 +5,10 @@ Repository where I store my articles regarding Computer Science topics. This art
 
 ## Articles
 
-* [Hello World](helloworld.md)
-* [Command Pattern](commandpattern.md)
-* [Procedural Grid Generator 2D for Unity - Cellular Automata](proceduralgridgeneration2dcellularautomata.md)
-* [JavaScript - difference between slice and splice methods](javaScriptSliceSplice.md)
+* [Hello World](articles/helloWorld/helloWorld.md)
+* [Command Pattern](articles/commandPattern/commandPattern.md)
+* [Procedural Grid Generator 2D for Unity - Cellular Automata](articles/proceduralGridGeneration2dCellularAutomata/proceduralGridGeneration2dCellularAutomata.md)
+* [JavaScript - difference between slice and splice methods](articles/javaScriptSliceSplice.md)
 
 ## Author
 Michal Parysz

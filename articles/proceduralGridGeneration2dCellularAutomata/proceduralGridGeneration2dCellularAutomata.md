@@ -42,7 +42,7 @@ private void GenerateNoise() {
 
 *Random.value -* returns random value in range from 0 to 1, so our *noiseDensity* variable should be float and set equal to 0.45
 
-![Noise](api/images/noise.png)
+![Noise](noise.png)
 
 > *Generated Noise - 45% noise, 50x50 size*
 > 
@@ -94,21 +94,21 @@ For every iteration we scan through grid array cells and determine their new sta
 
 Now we can see the results below for each iteration.
 
-![Iteration](api/images/iteration.png)
+![Iteration](iteration.png)
 
 > *First iteration - 45% noise, 50x50 size*
 > 
 
 First iteration should give some good results of islands consists with filled cells and empty cells between. 
 
-![Iteration1](api/images/iteration1.png)
+![Iteration1](iteration1.png)
 
 > Second *iteration - 45% noise, 50x50 size*
 > 
 
 Second iteration removes some loose filled cells and smooth the islands edges.
 
-![Iteration2](api/images/iteration2.png)
+![Iteration2](iteration2.png)
 
 > *Third iteration - 45% noise, 50x50 size*
 > 
