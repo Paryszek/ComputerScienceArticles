@@ -8,7 +8,7 @@ Repository where I store my articles regarding Computer Science topics. This art
 * [Hello World](articles/helloWorld/helloWorld.md)
 * [Command Pattern](articles/commandPattern/commandPattern.md)
 * [Procedural Grid Generator 2D for Unity - Cellular Automata](articles/proceduralGridGeneration2dCellularAutomata/proceduralGridGeneration2dCellularAutomata.md)
-* [JavaScript - difference between slice and splice methods](articles/javaScriptSliceSplice.md)
+* [JavaScript - difference between slice and splice methods](articles/javaScriptSliceSplice/javaScriptSliceSplice.md)
 
 ## Author
 Michal Parysz
