@@ -8,17 +8,53 @@ Today I would like to present you simple reminder of useful methods, that we can
 
 Is **inserting** element at the **end of array** and returns new length of the array as the result.
 
+```jsx
+const array = [1, 2];
+
+var result = array.push(3);
+
+console.log(array); // [1, 2, 3];
+console.log(result); // new array length 3
+```
+
 ## Pop
 
 Is **removing** the **last element** from the array and returns this element as the result.
+
+```jsx
+const array = [1, 2];
+
+const result = array.pop();
+
+console.log(array); // [1];
+console.log(result); // number 2
+```
 
 ## Unshift
 
 Is **inserting** element at the **beginning of array** and returns new length of the array as the result.
 
+```jsx
+const array = [1, 2];
+
+const result = array.unshift(3);
+
+console.log(array); // [3, 1 ,2];
+console.log(result); // new array length 3
+```
+
 ## Shift
 
 Is **removing** the **first element** of the array and returns it as a result.
+
+```jsx
+const array = [1, 2];
+
+const result = array.shift();
+
+console.log(array); // [2];
+console.log(result); // number 1
+```
 
 ## Summary
 
