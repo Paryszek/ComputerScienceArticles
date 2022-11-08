@@ -11,6 +11,7 @@ Repository where I store my articles regarding Computer Science topics. This art
 - [JavaScript - difference between slice and splice methods](articles/javaScriptSliceSplice/javaScriptSliceSplice.md)
 - [JavaScript - simple explanation of shift, unshift, push, pop methods](articles/javaScriptShiftUnshiftPopPush/javaScriptShiftUnshiftPopPush.md)
 - [Angular - Change detection in a nutshell](articles/angularChangeDetectionInANutshell/angularChangeDetectionInANutshell.md)
+- [Procedural Grid Generator 2D for Unity - Agents](articles/proceduralGridGeneration2dAgents/proceduralGridGeneration2dAgents.md)
 
 ## Author
 
